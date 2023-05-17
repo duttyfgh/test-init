@@ -1,1 +1,1 @@
-'fourth file text'
+const text = 'fourth file text'
